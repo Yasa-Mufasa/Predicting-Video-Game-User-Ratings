@@ -1,5 +1,5 @@
 # Predicting Video Game User Ratings
-![games](video-games.jpg)
+![games](/Images/video-games.jpg)
 
 # Programming Language
 
